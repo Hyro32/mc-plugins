@@ -1,7 +1,4 @@
-Servers:
-1. Proxy: Velocity Proxy ~ 2GB needed
-2. Main Lobby: PaperMC Server ~ 5GB needed
-3.  SMP - PaperMC Server ~ 5GB-7GB needed
-4. Duels 1vs1 & 2vs2 - PaperMC Server ~ 5GB needed
-5.
-6.
+## Mc Plugins 
+This repository contains a collection of Minecraft plugins and libraries tailored for networked servers, utilizing Gradle for build management. Designed for Minecraft server networks, it supports configurations for Proxy (Velocity) and PaperMC servers, optimized for various functions.
+
+Still in development! - [Join our Discord](https://bomb.sh/chat)
